@@ -91,3 +91,4 @@ git clone https://github.com/yavolo/nuclei-templates
 git clone https://github.com/z3bd/nuclei-templates
 git clone https://github.com/zinminphyo0/KozinTemplates
 git clone https://github.com/c-sh0/nuclei_templates
+git clone https://github.com/rahulkadavil/nuclei-templates
