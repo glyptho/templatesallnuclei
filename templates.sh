@@ -92,3 +92,5 @@ git clone https://github.com/z3bd/nuclei-templates
 git clone https://github.com/zinminphyo0/KozinTemplates
 git clone https://github.com/c-sh0/nuclei_templates
 git clone https://github.com/rahulkadavil/nuclei-templates
+https://github.com/MikeeI/nuclei-templates
+https://github.com/alexrydzak/rydzak-nuclei-templates
