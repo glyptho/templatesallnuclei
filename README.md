@@ -4,9 +4,6 @@
 This includes all the templates of nuclei collected from different sources
 
 
-
-
-
 https://gist.github.com/0x240x23elu
 https://github.com/Akokonunes/nuclei2021
 https://gist.github.com/ResistanceIsUseless/e46848f67706a8aa1205c9d2866bff31
