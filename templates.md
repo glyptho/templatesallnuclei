@@ -145,4 +145,5 @@ https://github.com/BishopFox/h2csmuggler/tree/master/extensions/nuclei-template
 https://github.com/0xElkot/My-Nuclei-Templates/blob/main/sqli.yaml
 https://github.com/Pear1y/CVE-2022-0540-Preauth-RCE
 https://github.com/numanturle/CVE-2022-1388
+https://github.com/HernanRodriguez1/ScanReflectedXSS
 ```
