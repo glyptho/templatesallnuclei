@@ -161,4 +161,5 @@ https://github.com/themastersunil/nucleiDB
 https://github.com/10kHacktech/nuclei_templates
 https://github.com/Aituglo/nuclei-templates
 https://github.com/trhacknon/nuclei-templates
+https://github.com/pacho15/mynuclei_templates
 ```
